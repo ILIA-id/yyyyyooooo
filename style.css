@@ -1,0 +1,45 @@
+body {
+    font-family: sans-serif;
+}
+nav a{
+    border: 2px double green;
+    padding: 7px;
+    margin: 100px;
+    width: 100px;
+    border-radius: 5px;
+    color: darkorange;
+}
+nav{
+    background-color: aquamarine;
+    font-size: 17px;
+}
+li{
+    font-size: 20px;
+    color: teal;
+    background-color: moccasin;
+    width: 400px;
+}
+h1{
+    color: coral;
+    text-align: center;
+}
+main p{
+    font-size: 20px;
+    color: darkviolet;
+}
+footer{
+    display: flex;
+    justify-content: center;
+}
+header a{
+    font-size: 20px;
+    display: flex;
+    border: 2px solid blueviolet;
+    width: 100px;
+    margin-left: 360px;
+}
+h2{
+    background-color: aqua;
+    color: darkorange;
+    width: 250px;
+}
